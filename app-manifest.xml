@@ -1,0 +1,16 @@
+<apps>
+  
+  <app>
+    <name>LVGL Graphics Example</name>
+    <id>mtb2-freertos-template</id>
+    <uri>https://github.com/d1g2w3/mtb-example-psoc6-emwin-tft-freertos</uri>
+    <description>This example demonstrates displaying 2D graphics on a TFT display using the LVGL Graphics Engine</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+  

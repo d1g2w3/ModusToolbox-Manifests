@@ -1,0 +1,17 @@
+<super-manifest>
+  <board-manifest-list>
+  </board-manifest-list>
+  <app-manifest-list>
+    <app-manifest>
+      <uri>https://github.com/d1g2w3/ModusToolbox-Manifests/app-manifest.xml</uri>
+      </app-manifest>
+   </app-manifest-list>
+  <board-manifest-list>
+  </board-manifest-list>
+  <middleware-manifest-list>
+    <middleware-manifest>
+      <uri>https://github.com/d1g2w3/ModusToolbox-Manifests/mw-manifest.xml</uri>
+    </middleware-manifest>
+  </middleware-manifest-list>
+</super-manifest>
+
